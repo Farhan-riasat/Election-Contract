@@ -13,3 +13,7 @@ npm run dev <br>
 
 # test
 truffle test
+
+# import fake ethers
+import Ganache account in MetaMask with private keys to  get some ethers for deploy and testing.
+don't forget to run ganache server before.
